@@ -69,6 +69,8 @@ and run all cells. The dataset file should be in the same folder.
 
 ## Contact
 
-Bindhusri Madireddy
+Bindhusri Madireddy           
+
 bindhusrireddy18@gmail.com
+
 linkedin.com/in/bindhusrireddy18
